@@ -9,7 +9,7 @@
 
 - HTML 5
 - CSS 3
-- JavaSCript
+- JavaScript
 
 - React JS
 - Node JS
