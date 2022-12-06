@@ -1,17 +1,12 @@
-### Ricardo Guevara, Desarrollador Web
+### Ricardo José Guevara Guzmán
+Desarrollador web apasionado a la programación y a crear soluciones digitales.
 
-- 🧑‍💻 Desarrollador Web JavaScript
-- 🔗 [Personal Website](https://ricardo-dev-portfolio.netlify.app/)
-- 🧑‍🎓 Ingeniería en Comunicación Multimedia
-- 💻 Apasionado por el desarrollo de software
-
-### Principales tecnologías que utilizo:
+### Stack
 
 - HTML 5
 - CSS 3
 - JavaScript
-
 - React JS
 - Node JS
-
-
+- PHP
+- -SQL
